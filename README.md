@@ -9,6 +9,8 @@ This is a minimal sample implementation of the Space Station Cargo Management Sy
 3. Run the container: `docker run -p 8000:8000 cargo-management`
 4. Test the API at http://localhost:8000
 
+### Or you can try running the checker script with this repo's url: https://drive.google.com/file/d/1en9GyBDrRCPlaN073fiOiTjUTPjjaIst/view?usp=drive_link
+
 ## API Documentation
 
 ### Placement API
